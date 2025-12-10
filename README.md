@@ -32,7 +32,7 @@ pip install pyramid waitress  # install Pyramid and Waitress
 ## Project Structure
 
 ```
-pyramid_books/
+project_folder/
 +
 +- app.py          # Main Pyramid application
 +- db.sqlite3      # SQLite database (copied from Django project)
